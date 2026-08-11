@@ -1,2 +1,1 @@
-# eng-soft
-Repositório voltado para a disciplina de engenharia de software
+## Repositório voltado para a disciplina de engenharia de software
